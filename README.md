@@ -1,7 +1,7 @@
 # Khizar-Hayat
 About Me
 
-I'm 17years old develepor, Who is learning web dev and focusing to create relationship with Dev communities to find more info about things the industry demands, obviously about AI. If somebody can really help me init. They could checkout me out on Insta or Discord: mrswee_.
+I'm a 17-year-old developer who is learning web dev and focusing on creating relationships with programming communities to find more info about things the industry demands, obviously about AI. If somebody can really help me init. They could check me out on Insta or Discord: mrswee_.
 
 ---
 
